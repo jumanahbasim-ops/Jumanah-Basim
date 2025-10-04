@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of NEO Explorer with Gemini",
+  "description": "An interactive dashboard to explore NASA's Near-Earth Object (NEO) data. Select an asteroid to view its orbital data, close approach history, and get an AI-powered summary from Gemini.",
+  "requestFramePermissions": []
+}
